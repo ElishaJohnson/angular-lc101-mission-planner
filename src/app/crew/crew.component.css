@@ -7,6 +7,19 @@ li:hover {
     width: auto;
 }
 
+.selected {
+    color: purple;
+}
+
+.caption {
+    text-align: center;
+    font-size: 12px;
+}
+
+figure {
+    width: 120px
+}
+
 img {
     width: auto;
     height: 100px;
